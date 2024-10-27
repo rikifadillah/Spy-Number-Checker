@@ -1,5 +1,10 @@
 # Spy-Number-Checker
 Spy Numbers, yang juga dikenal sebagai angka rahasia, memiliki sifat yang unik. Angka mata-mata ini didefinisikan sebagai angka yang jumlah digitnya sama dengan hasil perkalian digitnya.
+
+
+
+
+
 contoh:
 saya akan mengambil angka 115 sebagai contoh dan menjalankan melalui metode pemeriksa angka-angka 
 Penjumlahan Angka = 1 + 1 + 5 = 7
