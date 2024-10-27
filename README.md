@@ -6,6 +6,8 @@ Spy Numbers, yang juga dikenal sebagai angka rahasia, memiliki sifat yang unik. 
 
 
 contoh:
+
+
 saya akan mengambil angka 115 sebagai contoh dan menjalankan melalui metode pemeriksa angka-angka 
 Penjumlahan Angka = 1 + 1 + 5 = 7
 Perkalian Angka = 1 * 1 * 5 = 5 
