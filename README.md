@@ -25,3 +25,7 @@ Dalam kasus penjumlahan menghasilkan angka (7) tidak sama dengan hasil perkalian
 
 
 
+
+https://github.com/user-attachments/assets/6ebdb6aa-f542-492f-bb3c-b85141016b1a
+
+
